@@ -1,0 +1,20 @@
+.helper-wrap{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0;
+}
+.container{
+    border: 1px solid #9da8e8;
+    border-radius: 10px;
+    margin-top: 100px;
+    background: #f9f9f9;
+    box-shadow: 4px 6px 9px 0px rgba(78, 88, 146, 0.2);
+    height: 100%;
+}
+.add-new input{
+    height: 38px;
+}
+.add-new{
+    display: flex;
+    align-items: center;
+}
